@@ -129,7 +129,7 @@ class MainScreen extends StatelessWidget {
                           child: Column(
                             children: [
                               Image.asset(
-                                "assets/images/sevilla.png",
+                                "assets/images/athletico.png",
                                 height: 110,
                                 width: 110,
                               ),
@@ -137,7 +137,7 @@ class MainScreen extends StatelessWidget {
                                 height: 5,
                               ),
                               Text(
-                                "Sevilla",
+                                "Athletico",
                                 style: TextStyle(
                                   fontWeight: FontWeight.w600,
                                   color: Colors.white,
@@ -232,7 +232,7 @@ class MainScreen extends StatelessWidget {
                           Text(
                             "10'",
                             style: TextStyle(
-                              color: Colors.amber,
+                              color: Colors.lightBlue,
                               fontSize: 17,
                               fontWeight: FontWeight.w700,
                             ),
@@ -317,7 +317,7 @@ class MainScreen extends StatelessWidget {
                           Text(
                             "22'",
                             style: TextStyle(
-                              color: Colors.amber,
+                              color: Colors.lightBlue,
                               fontSize: 17,
                               fontWeight: FontWeight.w700,
                             ),
