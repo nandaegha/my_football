@@ -362,7 +362,7 @@ class MainScreen extends StatelessWidget {
                                   ),
                                 ),
                                 Text(
-                                  "Athletico Madrid",
+                                  "Athletico",
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 17,
