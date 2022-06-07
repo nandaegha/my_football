@@ -137,7 +137,7 @@ class MainScreen extends StatelessWidget {
                                 height: 5,
                               ),
                               Text(
-                                "Man City",
+                                "Sevilla",
                                 style: TextStyle(
                                   fontWeight: FontWeight.w600,
                                   color: Colors.white,
@@ -187,7 +187,7 @@ class MainScreen extends StatelessWidget {
                         Padding(
                           padding: const EdgeInsets.only(top: 22),
                           child: Text(
-                            "Liverpool vs Chelsea",
+                            "Liverpool vs Man United",
                             style: TextStyle(
                               color: Colors.black,
                               fontSize: 17,
@@ -199,7 +199,7 @@ class MainScreen extends StatelessWidget {
                           height: 5,
                         ),
                         Text(
-                          "16:00 | Starts in 45 min",
+                          "02:00 | Starts in 45 min",
                           style: TextStyle(color: Colors.black54, fontSize: 17),
                         ),
                       ],
