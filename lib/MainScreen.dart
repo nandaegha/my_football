@@ -315,7 +315,7 @@ class MainScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
-                            "2'",
+                            "22'",
                             style: TextStyle(
                               color: Colors.amber,
                               fontSize: 17,
@@ -346,7 +346,7 @@ class MainScreen extends StatelessWidget {
                                   ),
                                 ),
                                 Text(
-                                  " - ",
+                                  " 0:0 ",
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 17,
@@ -356,13 +356,13 @@ class MainScreen extends StatelessWidget {
                                 Container(
                                   padding: EdgeInsets.only(left: 5, right: 5),
                                   child: Image.asset(
-                                    "assets/images/barca.png",
+                                    "assets/images/athletico.png",
                                     height: 33,
                                     width: 33,
                                   ),
                                 ),
                                 Text(
-                                  "Barca",
+                                  "Athletico Madrid",
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 17,
