@@ -230,7 +230,7 @@ class MainScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
-                            "24'",
+                            "10'",
                             style: TextStyle(
                               color: Colors.amber,
                               fontSize: 17,
@@ -246,7 +246,7 @@ class MainScreen extends StatelessWidget {
                                   child: Row(
                                     children: [
                                       Text(
-                                        "Wolves",
+                                        "FCB",
                                         style: TextStyle(
                                           color: Colors.white,
                                           fontSize: 17,
@@ -259,7 +259,7 @@ class MainScreen extends StatelessWidget {
                                           right: 5,
                                         ),
                                         child: Image.asset(
-                                          "assets/images/wolves.png",
+                                          "assets/images/barca.png",
                                           height: 38,
                                           width: 38,
                                         ),
