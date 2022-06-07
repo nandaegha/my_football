@@ -159,7 +159,7 @@ class MainScreen extends StatelessWidget {
             Container(
               margin: EdgeInsets.only(left: 20, right: 20),
               height: 85,
-              decoration: BoxDecoration(color: Colors.amber, borderRadius: BorderRadius.circular(20)),
+              decoration: BoxDecoration(color: Colors.lightBlue, borderRadius: BorderRadius.circular(20)),
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
@@ -356,13 +356,13 @@ class MainScreen extends StatelessWidget {
                                 Container(
                                   padding: EdgeInsets.only(left: 5, right: 5),
                                   child: Image.asset(
-                                    "assets/images/athletico.png",
+                                    "assets/images/sevilla.png",
                                     height: 33,
                                     width: 33,
                                   ),
                                 ),
                                 Text(
-                                  "Athletico",
+                                  "Sevilla",
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 17,
