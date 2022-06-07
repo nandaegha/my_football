@@ -327,7 +327,7 @@ class MainScreen extends StatelessWidget {
                               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                               children: [
                                 Text(
-                                  "Real Madrid",
+                                  "RMA",
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 17,
